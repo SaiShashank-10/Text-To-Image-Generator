@@ -3,7 +3,10 @@
 A modern web application that transforms your text prompts into stunning AI-generated images.
 
 # 🚀 Live Demo: [Text-to-Image App]
-(https://text-to-img-app.netlify.app/)
+<a href="https://text-to-img-app.netlify.app/" target="_blank">View Live Demo</a>
+
+# 📸 Screenshot
+<img src="C:\Users\SAI SHASHANK\Pictures\Screenshots\Screenshot 2025-07-01 194709.png" alt="Text-to-Image App Screenshot" width="600">
 
 ## ✨ Features
 
