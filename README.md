@@ -46,11 +46,9 @@ A modern web application that transforms your text prompts into stunning AI-gene
 1. Type a creative prompt in the input box.
 2. Click **Generate** to create your image.
 3. Download or share your masterpiece!
-
-## 📄 License
-
-MIT License
+4. Explore more prompts and keep generating!
+5. 
 
 ---
 
-Made with Shashank❤️
+<center>Made with ❤️ by Sai Shashank Vakkalanka</center>
