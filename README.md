@@ -2,7 +2,8 @@
 
 A modern web application that transforms your text prompts into stunning AI-generated images.
 
-# 🚀 Live Demo: [Text-to-Image App](https://text-to-img-app.netlify.app/)
+# 🚀 Live Demo: [Text-to-Image App]
+(https://text-to-img-app.netlify.app/)
 
 ## ✨ Features
 
