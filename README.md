@@ -49,7 +49,7 @@ A modern web application that transforms your text prompts into stunning AI-gene
 2. Click **Generate** to create your image.
 3. Download or share your masterpiece!
 4. Explore more prompts and keep generating!
-5. 
+
 
 ---
 
