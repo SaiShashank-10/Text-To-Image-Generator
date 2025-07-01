@@ -51,4 +51,6 @@ A modern web application that transforms your text prompts into stunning AI-gene
 
 ---
 
-<center>Made with ❤️ by Sai Shashank Vakkalanka</center>
+<p align="center">
+  Made with ❤️ by <b>Sai Shashank Vakkalanka</b>
+</p>
