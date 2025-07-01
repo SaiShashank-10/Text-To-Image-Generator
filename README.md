@@ -6,7 +6,9 @@ A modern web application that transforms your text prompts into stunning AI-gene
 <a href="https://text-to-img-app.netlify.app/" target="_blank">View Live Demo</a>
 
 # 📸 Screenshot
-<img src="./public/Screenshot 2025-07-01 194709.png" alt="Text-to-Image App Screenshot" width="600"> <img src="./public/Screenshot 2025-07-02 014205.png" alt="Text-to-Image App Screenshot" width="600">
+<img src="./public/Screenshot 2025-07-01 194709.png" alt="Text-to-Image App Screenshot" width="600"> 
+<br>
+<img src="./public/Screenshot 2025-07-02 014205.png" alt="Text-to-Image App Screenshot" width="600">
 
 ## ✨ Features
 
